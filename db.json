@@ -1,0 +1,64 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Maria",
+      "password": "maria12345",
+      "gender": "F",
+      "dateOfBirth": "1996-01-01",
+      "email": "maria@gmail.com",
+      "mobileNumber": 1234567890,
+      "pincode": 123456,
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "country": "India"
+    }
+  ],
+  "coaches": [
+    {
+      "id": 1,
+      "name": "Rose",
+      "password": "rose12345",
+      "gender": "F",
+      "dateOfBirth": "1996-01-01",
+      "mobileNumber": 1234567890,
+      "speciality": "Confidence Issues"
+    },
+    {
+      "id": 2,
+      "name": "Jack",
+      "password": "jack12345",
+      "gender": "M",
+      "dateOfBirth": "1995-11-01",
+      "mobileNumber": 546894895146,
+      "speciality": "Support"
+    },
+    {
+      "id": 3,
+      "name": "Kaleab Tessema",
+      "password": "sad",
+      "gender": "M",
+      "dateOfBirth": "2022-12-08",
+      "mobileNumber": "(202) 643-2894",
+      "speciality": "dfasfds"
+    },
+    {
+      "id": 4,
+      "name": "Raphi",
+      "password": "raphi384",
+      "gender": "M",
+      "dateOfBirth": "2022-12-14",
+      "mobileNumber": "2026432894",
+      "speciality": "IT"
+    }
+  ],
+  "bookings": [
+    {
+      "appointmentDate": "2020-09-24",
+      "slot": "10 AM to 11 AM",
+      "userId": 1,
+      "coachId": 1,
+      "id": 1
+    }
+  ]
+}
